@@ -3,7 +3,7 @@
 A **free and simple-to-use web app** for solving advanced **math** and **physics questions**.  
 
 ## 🌐 Live Demo  
-👉 [SolverGenie](https://solvergenie.onrender.com/)  
+👉 [SolverGenie](https://solvergenie.site/)  
 
 ## About SolverGenie  
 As a **CS student** who has struggled with math and physics, I created SolverGenie to **help fellow students** tackle complex questions with ease.  
