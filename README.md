@@ -5,6 +5,8 @@ A **free and simple-to-use web app** for solving advanced **math** and **physics
 ## 🌐 Live Demo  
 👉 [SolverGenie](https://solvergenie.site/)  
 
+https://github.com/user-attachments/assets/b11293be-cc4c-4280-8e5d-54adaf639cb7
+
 ## About SolverGenie  
 As a **CS student** who has struggled with math and physics, I created SolverGenie to **help fellow students** tackle complex questions with ease.  
 
