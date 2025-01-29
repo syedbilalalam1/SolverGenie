@@ -3,6 +3,7 @@
 A **free and simple-to-use web app** for solving advanced **math** and **physics questions**.  
 
 ## 🌐 Live Demo  
+![Image](https://github.com/user-attachments/assets/076d0505-652b-4ad1-801e-ac388d23584e)
 👉 [SolverGenie](https://solvergenie.site/)  
 
 https://github.com/user-attachments/assets/b11293be-cc4c-4280-8e5d-54adaf639cb7
